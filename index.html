@@ -1,20 +1,93 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>My Resume</title>
+  <meta charset="UTF-8" />
+  <title>VENKATDHARSHINI V – Resume</title>
   <style>
-    body { font-family: Arial, sans-serif; padding: 40px; background: #f7f7f7; }
-    pre { white-space: pre-wrap; background: #fff; padding: 20px; border-radius: 8px; }
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background: #f7f9fc;
+      color: #222;
+      line-height: 1.6;
+    }
+    h1 { color: #0a58ca; }
+    h2 {
+      margin-top: 24px;
+      color: #333;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 4px;
+    }
+    .tagline { color: #555; margin-bottom: 16px; }
+    ul { margin-left: 20px; }
+    .contact a { text-decoration: none; color: #0a58ca; }
   </style>
 </head>
 <body>
-  <h1>My Resume</h1>
-  <pre id="content">Loading...</pre>
 
-  <script>
-    fetch('resume.txt')
-      .then(res => res.text())
-      .then(text => document.getElementById('content').textContent = text);
-  </script>
+  <h1>VENKATDHARSHINI VENKATRAJ</h1>
+  <div class="tagline">Aspiring Software Engineer | Frontend Developer | AI & ML Enthusiast</div>
+
+  <h2>Profile</h2>
+  <p>
+    I am studying computer science with a focus on full-stack development.
+    I aim to build effective web applications using both front-end and back-end technologies.
+    My goal is to create user-friendly websites and learn new skills to solve real-world challenges in technology.
+  </p>
+
+  <h2>Education</h2>
+  <ul>
+    <li><b>Kongu Engineering College (2023–2027)</b><br/>B.E. Computer Science and Engineering – CGPA: 7.81/10</li>
+    <li><b>Sengunthar HR. SEC School (2022–2023)</b><br/>Score: 86%</li>
+  </ul>
+
+  <h2>Technical Skills</h2>
+  <ul>
+    <li><b>Languages:</b> C, Python</li>
+    <li><b>Web:</b> HTML, CSS, JavaScript, React.js</li>
+    <li><b>Backend:</b> Node.js, Express.js, MongoDB</li>
+    <li><b>Tools:</b> GitHub</li>
+  </ul>
+
+  <h2>Projects</h2>
+  <ul>
+    <li>
+      <b>Medicine Stock Expiry Management System (2024–2025)</b><br/>
+      Full-stack web app using Python, Flask, SQLite, Bootstrap 5.
+      Features: Inventory, expiry tracking, low stock alerts, dashboard, supplier management.
+    </li>
+    <li>
+      <b>Virtual Notice Board for College (2024–2025)</b><br/>
+      CampusConnect web app using HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, MongoDB.
+    </li>
+  </ul>
+
+  <h2>Hackathons & Achievements</h2>
+  <ul>
+    <li>AI Bytes Hackathon 2K25 – 1st Prize (Kongu Engineering College)</li>
+    <li>AI-Powered Coconut Sorting System – 1st Prize (Kongu Engineering College)</li>
+    <li>Ideathon 2K25 – 3rd Prize (Kongu Engineering College)</li>
+  </ul>
+
+  <h2>Certifications</h2>
+  <ul>
+    <li>MongoDB Associate Developer – April 2025</li>
+    <li>Oracle APEX Cloud Developer – May 2025</li>
+  </ul>
+
+  <h2>Soft Skills</h2>
+  <p>Communication, Problem Solving, Teamwork, Self-Learning, Leadership</p>
+
+  <h2>Languages</h2>
+  <p>English, Kannada, Tamil</p>
+
+  <h2>Contact</h2>
+  <div class="contact">
+    <p>📞 Phone: +91 9344476393</p>
+    <p>✉️ Email: venkatdharshini.v@gmail.com</p>
+    <p>🐙 GitHub: <a href="https://github.com/VENKATDHARSHINI24" target="_blank">VENKATDHARSHINI24</a></p>
+    <p>🔗 LinkedIn: <a href="https://www.linkedin.com/in/venkatdharshini24/" target="_blank">venkatdharshini24</a></p>
+  </div>
+
 </body>
 </html>
