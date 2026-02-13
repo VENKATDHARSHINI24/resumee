@@ -1,0 +1,50 @@
+VENKATDHARSHINI VENKATRAJ
+Aspiring Software Engineer | Frontend Developer | AI & ML Enthusiast
+
+PROFILE
+I am studying computer science with a focus on full-stack development.
+I aim to build effective web applications using both front-end and back-end technologies.
+My goal is to create user-friendly websites and learn new skills to solve real-world challenges in technology.
+
+EDUCATION
+Kongu Engineering College (2023–2027)
+B.E. Computer Science and Engineering
+CGPA: 7.81/10
+
+Sengunthar HR. SEC School (2022–2023)
+Score: 86%
+
+TECHNICAL SKILLS
+Languages: C, Python
+Web: HTML, CSS, JavaScript, React.js
+Backend: Node.js, Express.js, MongoDB
+Tools: GitHub
+
+PROJECTS
+Medicine Stock Expiry Management System (2024–2025)
+- Full-stack web app using Python, Flask, SQLite, Bootstrap 5
+- Inventory, expiry tracking, low stock alerts, dashboard, supplier management
+
+Virtual Notice Board for College (2024–2025)
+- CampusConnect web app using HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, MongoDB
+
+HACKATHONS & ACHIEVEMENTS
+AI Bytes Hackathon 2K25 – 1st Prize, Kongu Engineering College
+AI-Powered Coconut Sorting System – 1st Prize, Kongu Engineering College
+Ideathon 2K25 – 3rd Prize, Kongu Engineering College
+
+CERTIFICATIONS
+MongoDB Associate Developer – April 2025
+Oracle APEX Cloud Developer – May 2025
+
+SOFT SKILLS
+Communication, Problem Solving, Teamwork, Self-Learning, Leadership
+
+LANGUAGES
+English, Kannada, Tamil
+
+CONTACT
+Phone: +91 9344476393
+Email: venkatdharshini.v@gmail.com
+GitHub: https://github.com/VENKATDHARSHINI24
+LinkedIn: https://www.linkedin.com/in/venkatdharshini24/
